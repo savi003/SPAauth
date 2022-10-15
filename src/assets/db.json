@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "James Bond",
+      "DOJ": "08-08-2022",
+      "salary": 30000,
+      "email": "jamesbond@007.com"
+    }
+  ],
+  "user": [
+    {
+      "name": "James",
+      "email": "bond@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Ethan",
+      "email": "hunt@imf.com",
+      "password": "4565",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "email": "wick@gm.com",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
